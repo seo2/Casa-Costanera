@@ -1,0 +1,38 @@
+[10-Oct-2017 18:07:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/radical7981/public_html/inco/root_adm/dbaccess.php:6
+Stack trace:
+#0 /home/radical7981/public_html/inco/root_adm/dbaccess.php(11): Conectar('localhost', 'hz_admin', '62032597hz', 'bd_inco_web')
+#1 /home/radical7981/public_html/inco/root_adm/adm_R.php(31): require_once('/home/radical79...')
+#2 /home/radical7981/public_html/inco/root_adm/index.php(3): require_once('/home/radical79...')
+#3 {main}
+  thrown in /home/radical7981/public_html/inco/root_adm/dbaccess.php on line 6
+[10-Oct-2017 18:16:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/radical7981/public_html/inco/root_adm/dbaccess.php:6
+Stack trace:
+#0 /home/radical7981/public_html/inco/root_adm/dbaccess.php(11): Conectar('localhost', 'hz_admin', '62032597hz', 'bd_inco_web')
+#1 /home/radical7981/public_html/inco/root_adm/adm_R.php(31): require_once('/home/radical79...')
+#2 /home/radical7981/public_html/inco/root_adm/index.php(3): require_once('/home/radical79...')
+#3 {main}
+  thrown in /home/radical7981/public_html/inco/root_adm/dbaccess.php on line 6
+[11-Oct-2017 15:47:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/radical7981/public_html/inco/root_adm/dbaccess.php on line 6
+[11-Oct-2017 15:47:08 UTC] PHP Warning:  mysql_connect(): Access denied for user 'hz_admin'@'localhost' (using password: YES) in /home/radical7981/public_html/inco/root_adm/dbaccess.php on line 6
+[11-Oct-2017 15:47:08 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/radical7981/public_html/inco/root_adm/dbaccess.php on line 7
+[11-Oct-2017 15:47:08 UTC] PHP Notice:  Undefined index: USR in /home/radical7981/public_html/inco/root_adm/sessions.php on line 7
+[11-Oct-2017 15:47:08 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/radical7981/public_html/inco/root_adm/dbaccess.php on line 49
+[11-Oct-2017 15:47:08 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/radical7981/public_html/inco/root_adm/dbaccess.php on line 49
+[11-Oct-2017 15:47:08 UTC] PHP Notice:  Undefined index: USR in /home/radical7981/public_html/inco/root_adm/functions.php on line 58
+[11-Oct-2017 15:47:08 UTC] PHP Notice:  Undefined index: USR in /home/radical7981/public_html/inco/root_adm/functions.php on line 49
+[11-Oct-2017 15:47:08 UTC] PHP Notice:  Undefined index: USR in /home/radical7981/public_html/inco/root_adm/menu.php on line 55
+[11-Oct-2017 15:47:08 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/radical7981/public_html/inco/root_adm/dbaccess.php on line 41
+[11-Oct-2017 15:47:08 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/radical7981/public_html/inco/root_adm/menu.php on line 71
+[11-Oct-2017 15:47:08 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/radical7981/public_html/inco/root_adm/dbaccess.php on line 41
+[11-Oct-2017 15:47:08 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/radical7981/public_html/inco/root_adm/modulos/mensaje/index.php on line 13
+[11-Oct-2017 15:47:08 UTC] PHP Notice:  Undefined variable: paginador in /home/radical7981/public_html/inco/root_adm/modulos/mensaje/index.php on line 44
+[11-Oct-2017 15:47:08 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/radical7981/public_html/inco/root_adm/modulos/mensaje/index.php on line 63
+[11-Oct-2017 15:47:08 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/radical7981/public_html/inco/root_adm/modulos/mensaje/index.php on line 92
+[11-Oct-2017 15:47:08 UTC] PHP Notice:  Undefined variable: modulo in /home/radical7981/public_html/inco/root_adm/js.php on line 136
+[11-Oct-2017 15:47:08 UTC] PHP Notice:  Undefined variable: action in /home/radical7981/public_html/inco/root_adm/js.php on line 136
+[11-Oct-2017 15:47:08 UTC] PHP Notice:  Undefined variable: modulo in /home/radical7981/public_html/inco/root_adm/js.php on line 535
+[11-Oct-2017 15:47:08 UTC] PHP Notice:  Undefined variable: modulo in /home/radical7981/public_html/inco/root_adm/js.php on line 570
+[11-Oct-2017 15:47:08 UTC] PHP Notice:  Undefined variable: modulo in /home/radical7981/public_html/inco/root_adm/js.php on line 586
+[11-Oct-2017 15:47:08 UTC] PHP Notice:  Undefined variable: modulo in /home/radical7981/public_html/inco/root_adm/js.php on line 616
+[11-Oct-2017 15:47:08 UTC] PHP Notice:  Undefined variable: modulo in /home/radical7981/public_html/inco/root_adm/js.php on line 646
+[11-Oct-2017 15:47:08 UTC] PHP Notice:  Undefined variable: modulo in /home/radical7981/public_html/inco/root_adm/js.php on line 749

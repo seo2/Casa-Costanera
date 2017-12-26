@@ -1,0 +1,15 @@
+[27-May-2014 08:25:52] PHP Fatal error:  Call to undefined function  datos() in /home/globalce/public_html/root_adm/modulos/mensaje/export.php on line 50
+[10-Jun-2015 19:47:34 UTC] PHP Notice:  Undefined index: nombre in /home/edifici8/public_html/root_adm/modulos/mensaje/save_mensaje.php on line 10
+[27-Aug-2015 15:53:16 UTC] PHP Notice:  Undefined index: nombre in /home/edifici8/public_html/root_adm/modulos/mensaje/save_mensaje.php on line 10
+[27-Aug-2015 15:54:01 UTC] PHP Notice:  Undefined index: nombre in /home/edifici8/public_html/root_adm/modulos/mensaje/save_mensaje.php on line 10
+[27-Aug-2015 15:54:05 UTC] PHP Notice:  Undefined index: nombre in /home/edifici8/public_html/root_adm/modulos/mensaje/save_mensaje.php on line 10
+[27-Aug-2015 15:57:56 UTC] PHP Notice:  Undefined index: nombre in /home/edifici8/public_html/root_adm/modulos/mensaje/save_mensaje.php on line 10
+[27-Aug-2015 15:57:59 UTC] PHP Notice:  Undefined index: nombre in /home/edifici8/public_html/root_adm/modulos/mensaje/save_mensaje.php on line 10
+[27-Aug-2015 16:06:48 UTC] PHP Notice:  Undefined index: nombre in /home/edifici8/public_html/root_adm/modulos/mensaje/save_mensaje.php on line 10
+[27-Aug-2015 16:06:50 UTC] PHP Notice:  Undefined index: nombre in /home/edifici8/public_html/root_adm/modulos/mensaje/save_mensaje.php on line 10
+[27-Aug-2015 16:14:18 UTC] PHP Notice:  Undefined index: nombre in /home/edifici8/public_html/root_adm/modulos/mensaje/save_mensaje.php on line 10
+[27-Aug-2015 16:38:30 UTC] PHP Notice:  Undefined index: nombre in /home/edifici8/public_html/root_adm/modulos/mensaje/save_mensaje.php on line 10
+[27-Aug-2015 16:38:32 UTC] PHP Notice:  Undefined index: nombre in /home/edifici8/public_html/root_adm/modulos/mensaje/save_mensaje.php on line 10
+[27-Aug-2015 16:38:34 UTC] PHP Notice:  Undefined index: nombre in /home/edifici8/public_html/root_adm/modulos/mensaje/save_mensaje.php on line 10
+[05-Jan-2016 12:32:28 UTC] PHP Notice:  Undefined index: nombre in /home/edifici8/public_html/web/root_adm/modulos/mensaje/save_mensaje.php on line 10
+[01-Mar-2016 16:55:05 UTC] PHP Notice:  Undefined index: nombre in /home/vimaccl/public_html/root_adm/modulos/mensaje/save_mensaje.php on line 10

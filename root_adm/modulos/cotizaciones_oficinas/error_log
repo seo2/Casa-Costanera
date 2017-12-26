@@ -1,0 +1,3 @@
+[13-Mar-2015 20:47:23 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/edifici3/public_html/root_adm/modulos/cotizaciones/export.php on line 73
+[13-Mar-2015 20:47:23 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/edifici3/public_html/root_adm/modulos/cotizaciones/export.php on line 73
+[13-Mar-2015 20:47:23 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/edifici3/public_html/root_adm/modulos/cotizaciones/export.php on line 73

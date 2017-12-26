@@ -1,0 +1,33 @@
+[10-Jun-2015 19:41:49 UTC] PHP Notice:  Undefined index: nombre in /home/edifici8/public_html/root_adm/modulos/configuracion/save_modulo.php on line 10
+[10-Jun-2015 19:41:49 UTC] PHP Notice:  Undefined index: codigo in /home/edifici8/public_html/root_adm/modulos/configuracion/save_modulo.php on line 11
+[10-Jun-2015 19:41:49 UTC] PHP Notice:  Undefined index: icono in /home/edifici8/public_html/root_adm/modulos/configuracion/save_modulo.php on line 12
+[10-Jun-2015 19:41:49 UTC] PHP Notice:  Undefined index: es_dinamico in /home/edifici8/public_html/root_adm/modulos/configuracion/save_modulo.php on line 19
+[10-Jun-2015 19:41:56 UTC] PHP Notice:  Undefined index: nombre in /home/edifici8/public_html/root_adm/modulos/configuracion/save_modulo.php on line 10
+[10-Jun-2015 19:41:56 UTC] PHP Notice:  Undefined index: codigo in /home/edifici8/public_html/root_adm/modulos/configuracion/save_modulo.php on line 11
+[10-Jun-2015 19:41:56 UTC] PHP Notice:  Undefined index: icono in /home/edifici8/public_html/root_adm/modulos/configuracion/save_modulo.php on line 12
+[10-Jun-2015 19:41:56 UTC] PHP Notice:  Undefined index: es_dinamico in /home/edifici8/public_html/root_adm/modulos/configuracion/save_modulo.php on line 19
+[10-Jun-2015 19:55:32 UTC] PHP Notice:  Undefined index: nombre in /home/edifici8/public_html/root_adm/modulos/configuracion/save_usuario.php on line 10
+[10-Jun-2015 19:55:32 UTC] PHP Notice:  Undefined index: nick in /home/edifici8/public_html/root_adm/modulos/configuracion/save_usuario.php on line 11
+[10-Jun-2015 19:55:32 UTC] PHP Notice:  Undefined index: password in /home/edifici8/public_html/root_adm/modulos/configuracion/save_usuario.php on line 12
+[10-Jun-2015 19:55:32 UTC] PHP Notice:  Undefined index: email in /home/edifici8/public_html/root_adm/modulos/configuracion/save_usuario.php on line 13
+[10-Jun-2015 19:55:42 UTC] PHP Notice:  Undefined index: configuracion in /home/edifici8/public_html/root_adm/modulos/configuracion/save_usuario.php on line 77
+[10-Jun-2015 19:55:42 UTC] PHP Notice:  Undefined index: viviendas in /home/edifici8/public_html/root_adm/modulos/configuracion/save_usuario.php on line 77
+[10-Jun-2015 19:55:42 UTC] PHP Notice:  Undefined index: cotizaciones in /home/edifici8/public_html/root_adm/modulos/configuracion/save_usuario.php on line 77
+[16-Feb-2016 10:51:27 America/Santiago] PHP Notice:  Undefined index: configuracion in /home/cra11472/public_html/vimac_web2/root_adm/modulos/configuracion/save_usuario.php on line 77
+[25-Feb-2016 22:39:18 UTC] PHP Notice:  Undefined index: id in /home/vimaccl/public_html/root_adm/modulos/configuracion/save_usuario.php on line 7
+[25-Feb-2016 22:39:18 UTC] PHP Notice:  Undefined index: configuracion in /home/vimaccl/public_html/root_adm/modulos/configuracion/save_usuario.php on line 33
+[24-May-2017 08:54:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/inmobi14/public_html/root_adm/dbaccess.php on line 6
+[24-May-2017 08:54:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/inmobi14/public_html/root_adm/dbaccess.php on line 6
+[24-May-2017 13:07:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/inmobi14/public_html/root_adm/dbaccess.php on line 6
+[20-Jun-2017 14:40:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/radical7981/public_html/prodelca/root_adm/dbaccess.php on line 6
+[20-Jun-2017 14:40:17 UTC] PHP Notice:  Undefined index: mensaje in /home/radical7981/public_html/prodelca/root_adm/modulos/configuracion/save_usuario.php on line 77
+[05-Jul-2017 19:22:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/radical7981/public_html/prodelca/root_adm/dbaccess.php on line 6
+[05-Jul-2017 19:22:38 UTC] PHP Notice:  Undefined index: locales in /home/radical7981/public_html/prodelca/root_adm/modulos/configuracion/save_usuario.php on line 77
+[07-Jul-2017 17:23:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/radical7981/public_html/prodelca/root_adm/dbaccess.php on line 6
+[07-Jul-2017 17:23:06 UTC] PHP Notice:  Undefined index: id in /home/radical7981/public_html/prodelca/root_adm/modulos/configuracion/save_usuario.php on line 7
+[07-Jul-2017 17:23:06 UTC] PHP Notice:  Undefined index: mensaje in /home/radical7981/public_html/prodelca/root_adm/modulos/configuracion/save_usuario.php on line 33
+[07-Jul-2017 17:23:06 UTC] PHP Notice:  Undefined index: mensaje in /home/radical7981/public_html/prodelca/root_adm/modulos/configuracion/save_usuario.php on line 33
+[07-Jul-2017 17:23:06 UTC] PHP Notice:  Undefined index: villanueva in /home/radical7981/public_html/prodelca/root_adm/modulos/configuracion/save_usuario.php on line 33
+[07-Jul-2017 17:23:06 UTC] PHP Notice:  Undefined index: personaliza in /home/radical7981/public_html/prodelca/root_adm/modulos/configuracion/save_usuario.php on line 33
+[07-Jul-2017 17:23:06 UTC] PHP Notice:  Undefined index: locales in /home/radical7981/public_html/prodelca/root_adm/modulos/configuracion/save_usuario.php on line 33
+[07-Jul-2017 17:23:06 UTC] PHP Notice:  Undefined index: trend in /home/radical7981/public_html/prodelca/root_adm/modulos/configuracion/save_usuario.php on line 33
