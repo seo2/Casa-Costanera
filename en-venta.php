@@ -1,3 +1,16 @@
+<?php
+	if($_GET['lang']){
+		$txt1 = 'DIFFERENTIATION ';
+		$txt2 = 'ON EVERY DETAIL';
+		$txt3 = 'Company';
+		$txt4 = 'SEE PROJECTS';
+	}else{
+		$txt1 = 'Diferenciación';
+		$txt2 = 'en cada detalle';
+		$txt3 = 'Empresa';
+		$txt4 = 'Ver proyectos';
+	}
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -18,7 +31,7 @@
 
 <section class="cont text-center padd">
  <div class="title-center">
-	<h1 class="text-back wow fadeInDown"><strong>Diferenciación </strong><br>en cada detalle</h1>
+	<h1 class="text-back wow fadeInDown"><strong><?php echo $txt1; ?> </strong><br><?php echo $txt2; ?></h1>
 
 		</div>
 </section>
@@ -104,7 +117,7 @@
 			
 		</div>
 	</div><br><br><br>
-	<div class="container"><a href="ejecutados.php" class="btn-w text-center" style="width: 300px; margin: 0 auto; display: block;">
+	<div class="container"><a href="ejecutados.php<?php echo $cola; ?>" class="btn-w text-center" style="width: 300px; margin: 0 auto; display: block;">
 	 Ver proyectos ejecutados &gt;</a></div>
 	
 	<br><br><br>

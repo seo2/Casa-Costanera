@@ -1,3 +1,16 @@
+<?php
+	if($_GET['lang']){
+		$txt1 = 'EXCELLENCE  ';
+		$txt2 = 'INNOVATION';
+		$txt3 = 'Company';
+		$txt4 = 'SEE PROJECTS';
+	}else{
+		$txt1 = 'Innovación por';
+		$txt2 = 'excelencia';
+		$txt3 = 'Empresa';
+		$txt4 = 'Ver proyectos';
+	}
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,7 +24,7 @@
 <div class="wrap-full ejecutados relative-bg enventa-bg" style="background: none;">
 <section class="cont text-center padd">
  <div class="title-center">
-	<h1 class="text-back wow fadeInDown"><strong>Innovación por</strong><br>excelencia</h1>
+	<h1 class="text-back wow fadeInDown"><strong><?php echo $txt1; ?></strong><br><?php echo $txt2; ?></h1>
  </div>
 </section>
 <a href="" class="anchorLink2 " data-atr="bajar" title="bajar">
@@ -324,7 +337,7 @@
 </div>
 </section>
 
-<div class="container"><a href="en-venta.php" class="btn-w text-center" style="width: 300px; margin: 90px auto; display: block;">
+<div class="container"><a href="en-venta.php<?php echo $cola; ?>" class="btn-w text-center" style="width: 300px; margin: 90px auto; display: block;">
 	 Ver proyectos en venta &gt;</a></div>
 
 <script>

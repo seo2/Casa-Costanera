@@ -1218,8 +1218,8 @@ p {
 }
 @media (max-width: 465px) {
 	.alt-proy .txtEdificio {
-    bottom: 10px;
-}
+	    bottom: 10px;
+	}
 	
 	.alt-proy .txtEdificio .link_prox {margin-top: 12px;font-size: 10px; letter-spacing: 1px}
 	.logo {height:auto;}
@@ -1228,3 +1228,14 @@ p {
 	.detalle a:last-child {margin-left:0 !important; clear:both; display: block;}
 	.detalle {height:auto !important;}
 }
+
+
+#idiomas{position: absolute; right: 20px; top: 20px;color: #fff; list-style: none; padding: 0; margin: 0; z-index: 100;}
+#idiomas li{display: inline-block;}
+#idiomas li a{color: #fff; font-size: 12px; text-decoration: none;}
+#idiomas li a:hover,
+#idiomas li a.current{ text-decoration: underline;}
+
+#idiomamob{text-align: center; color: #fff; margin-bottom: 20px !important;}
+#idiomamob a{display: inline; margin: 0 30px;}
+#idiomamob a.current{ text-decoration: underline;}

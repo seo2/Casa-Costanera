@@ -1,3 +1,16 @@
+<?php
+	if($_GET['lang']){
+		$txt1 = 'HIGH STANDARD';
+		$txt2 = 'PROJECTS';
+		$txt3 = 'UNIQUE';
+		$txt4 = 'LOCATIONS';
+	}else{
+		$txt1 = 'Proyectos de';
+		$txt2 = 'alto standing';
+		$txt3 = 'Ubicaciones';
+		$txt4 = 'únicas';
+	}
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,7 +21,10 @@
 </head>
 <body class="center-p index">
 
-<?php $activa = "index"; require 'include/nav.php'; ?>
+<?php 
+	$activa = "index"; 
+	require 'include/nav.php'; 
+?>
 
 <section class="cont text-center padd">
 <div class="title-center">
@@ -16,18 +32,18 @@
  <!-- Wrapper for slides -->
   <div class="carousel-inner">
     <div class="item active fade in">
-     <h1 class="text-back" style="text-transform: uppercase; width: 600px;"><strong id="changeText">Proyectos de</strong><br><span id="changeText2" style="font-size: 21px;
+     <h1 class="text-back" style="text-transform: uppercase; width: 600px;"><strong id="changeText"><?php echo $txt1; ?></strong><br><span id="changeText2" style="font-size: 21px;
     line-height: -1px;
     top: -10px;
     left: 2px;
-    position: relative;">alto standing</span>	</h1>
+    position: relative;"><?php echo $txt2; ?></span>	</h1>
     </div>
 	<div class="item fade in">
-      <h1 class="text-back" style="text-transform: uppercase; width: 600px;"><strong id="changeText">Ubicaciones</strong><br><span id="changeText2" style="font-size: 21px;
+      <h1 class="text-back" style="text-transform: uppercase; width: 600px;"><strong id="changeText"><?php echo $txt3; ?></strong><br><span id="changeText2" style="font-size: 21px;
     line-height: -1px;
     top: -10px;
     left: 2px;
-    position: relative;">únicas </span>	</h1>
+    position: relative;"><?php echo $txt4; ?> </span>	</h1>
     </div>
   </div>
  </div>
@@ -63,11 +79,11 @@
   left: 0;
 }
 </style>
-<h1 class="text-back visible-xs" style="text-transform: uppercase;"><strong id="changeText">Proyectos de</strong><br><span id="changeText2" style="font-size: 21px;
+<h1 class="text-back visible-xs" style="text-transform: uppercase;"><strong id="changeText"><?php echo $txt1; ?></strong><br><span id="changeText2" style="font-size: 21px;
     line-height: -1px;
     top: -10px;
     left: 2px;
-    position: relative;">alto standing </span>	</h1>
+    position: relative;"><?php echo $txt2; ?> </span>	</h1>
    </div>
 </section> 
 <div class="fade-black"></div>
